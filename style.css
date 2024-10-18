@@ -858,6 +858,7 @@ font-weight: 600;
       flex-direction: column; /* Stack elements vertically */
       height: auto; /* Allow height to adjust based on content */
       padding: 20px; /* Add padding for mobile */
+      margin-top:50px;
       
   }
   .hero-5-row-card i{
